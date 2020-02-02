@@ -1,2 +1,22 @@
 # Facebook-Scraper
-This script takes downloaded Facebook information and extras data about post quantities over time.
+This script takes downloaded Facebook information and extras data about post quantities over time. This is my first script. 
+
+This bot will not work without editting the code to meet your personal conditions.
+
+Inspiration for this bot comes from the book Mining Social Media, Finding Stories In Internet Data by Lam Thuy Yo.
+
+HOW TO USE:
+
+DOWNLOADING FACEBOOK DATA -
+  1. NAVIGATE TO YOUR FACEBOOK PROFILE AND SELECT SETTINGS -> YOUR FACEBOOK INFORMATION -> DOWNLOAD YOUR INFORMATION
+  2. WAIT FOR THE DATA TO EITHER ARRIVE IN YOUR INBOX OR THE NOTIFACTION ON FACEBOOK
+  3. SAVE THE ASSOCIATED ZIP FILE INTO A FOLDER, I SAVED MINE INTO "FACEBOOK-NAME" IN MY DOCUMENTS
+  4. EXTRACT THE CONTENTS OF THE ZIP INTO THAT FOLDER
+  5. PLACE THE CODE "FACEBOOK-SCRAPER.PY" INTO THE SAME FOLDER AS THE DATA
+  
+EDITTING THE CODE FOR PERSONAL USE - 
+  1. OPEN THE CODE AND EDIT THE FOLLOWING FIELDS:
+    A. VARIABLE foldername (EDIT TO REFLECT THE NAME OF THE FOLDER YOU SAVED THE ZIP INTO)
+    B. THE OPEN STATEMENT TO REFLECT THE PATH TO THE FOLDER
+    
+EITHER RUN THE FILE IN A IDE OR THROUGH CMD
